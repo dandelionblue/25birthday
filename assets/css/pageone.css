@@ -70,7 +70,7 @@ body{  margin: 0;  }
 
 
 
-.footerButton{  animation:tmv 6s linear infinite;position: absolute;z-index:222; left:50%;bottom:0px;margin-left:-180px;
+.footerButton{  animation:tmv 6s linear infinite;position: absolute;z-index:222; left:50%;bottom:5%;margin-left:-180px;
     display: block;width:362px;height:109px;background: url(../images/PNG_Button_Normal.png); }
 .footerButton:hover{background: url(../images/PNG_Button_Hover.png) ;}
 @keyframes tmv
